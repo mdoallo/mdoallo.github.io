@@ -4,5 +4,6 @@ Full time Professor at Electrical Engineering Department of Universidad Tecnoló
 
 # Contact
 
-E-Mail: <m.doallo@ieee.org> \\
+E-Mail: <m.doallo@ieee.org> 
+
 E-Mail: <m.doallo@frba.utn.edu.ar>
