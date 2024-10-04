@@ -1,6 +1,10 @@
 # Short BIO
 
-Full time Professor at Electrical Engineering Department of Universidad Tecnológica Nacional. IEEE Senior Member since 2011.
+Full time Professor at Electrical Engineering Department of Universidad Tecnológica Nacional\
+Buenos Aires, Argentina\
+IEEE Senior Member since 2011\
+Ham Radio license LW1EFZ\
+I love GNU Radio :-)
 
 # Contact
 
