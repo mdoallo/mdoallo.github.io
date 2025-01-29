@@ -15,6 +15,8 @@ E-Mail: <m.doallo@frba.utn.edu.ar>
 
 # Publicaciones
 
+- Doallo, M.R., Peretti, G.C., Bottinelli, L.N., Nirino, F., Alesandria, A. (2024). Simulations and Online Laboratory Experiments for Courses of Communication Systems Developed Due to the COVID-19 Pandemic and Subsequent Utilization. In: May, D., Auer, M.E., Kist, A. (eds) Online Laboratories in Engineering and Technology Education. Lecture Notes in Networks and Systems, vol 1135. Springer, Cham. [https://doi.org/10.1007/978-3-031-70771-1_32](https://doi.org/10.1007/978-3-031-70771-1_32)
+
 - M. R. Doallo, T. Matías Monteiro and L. Bottinelli, "Modulador por amplitud de pulso implementado sobre FPGA con software libre [Not available in English]," 2020 IEEE Congreso Bienal de Argentina (ARGENCON), Resistencia, Argentina, 2020, pp. 1-8, doi: 10.1109/ARGENCON49523.2020.9505335.\
   keywords: {Time division multiplexing;Software;Field programmable gate arrays},\
   URL: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9505335&isnumber=9505317](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9505335&isnumber=9505317)
