@@ -15,9 +15,9 @@ E-Mail: <m.doallo@frba.utn.edu.ar>
 
 # Publicaciones
 
-- M. R. Doallo, L. N. Bottinelli, L. Duggan and F. Repetto, "Work In Progress: Baseband Arbitrary Function Generator Integrated with GNU Radio," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-7, [doi: 10.1109/ARGENCON62399.2024.10735903](https://doi.org/10.1109/ARGENCON62399.2024.10735903).
+- M. R. Doallo, L. N. Bottinelli, L. Duggan and F. Repetto, "Work In Progress: Baseband Arbitrary Function Generator Integrated with GNU Radio," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-7, [https://doi.org/10.1109/ARGENCON62399.2024.10735903](https://doi.org/10.1109/ARGENCON62399.2024.10735903).
 
-- M. R. Doallo, G. Peretti, F. Nirino, E. Andrenacci and A. S. Alesandria, "Work in Progress: Automatic Satellite Image Receiver System for NOAA Weather Satellites," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-6, [doi: 10.1109/ARGENCON62399.2024.10735902](https://doi.org/10.1109/ARGENCON62399.2024.10735902).
+- M. R. Doallo, G. Peretti, F. Nirino, E. Andrenacci and A. S. Alesandria, "Work in Progress: Automatic Satellite Image Receiver System for NOAA Weather Satellites," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-6, [https://doi.org/10.1109/ARGENCON62399.2024.10735902](https://doi.org/10.1109/ARGENCON62399.2024.10735902).
 
 - Doallo, M.R., Peretti, G.C., Bottinelli, L.N., Nirino, F., Alesandria, A. (2024). Simulations and Online Laboratory Experiments for Courses of Communication Systems Developed Due to the COVID-19 Pandemic and Subsequent Utilization. In: May, D., Auer, M.E., Kist, A. (eds) Online Laboratories in Engineering and Technology Education. Lecture Notes in Networks and Systems, vol 1135. Springer, Cham. [https://doi.org/10.1007/978-3-031-70771-1_32](https://doi.org/10.1007/978-3-031-70771-1_32)
 
