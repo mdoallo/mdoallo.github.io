@@ -15,6 +15,8 @@ E-Mail: <m.doallo@frba.utn.edu.ar>
 
 # Publicaciones
 
+- G. Peretti, M. R. Doallo, F. Busano, S. Felissia, S. Parucci and J. Bossio, "Design and Implementation of a Satellite Tracking System Using a Helical Antenna," 2025 XXI Workshop on Information Procesing and Control (RPIC), San Francisco, Argentina, 2025, pp. 1-6, [https://doi.org/10.1109/RPIC67987.2025.11260853](https://doi.org/10.1109/RPIC67987.2025.11260853).
+
 - M. R. Doallo, L. N. Bottinelli, L. Duggan and F. Repetto, "Work In Progress: Baseband Arbitrary Function Generator Integrated with GNU Radio," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-7, [https://doi.org/10.1109/ARGENCON62399.2024.10735903](https://doi.org/10.1109/ARGENCON62399.2024.10735903).
 
 - M. R. Doallo, G. Peretti, F. Nirino, E. Andrenacci and A. S. Alesandria, "Work in Progress: Automatic Satellite Image Receiver System for NOAA Weather Satellites," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-6, [https://doi.org/10.1109/ARGENCON62399.2024.10735902](https://doi.org/10.1109/ARGENCON62399.2024.10735902).
