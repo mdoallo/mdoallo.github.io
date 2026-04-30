@@ -15,6 +15,8 @@ E-Mail: <m.doallo@frba.utn.edu.ar>
 
 # Publicaciones
 
+- M. R. Doallo, G. Peretti, L. N. Bottinelli, L. Duggan y F. Repetto, "Ensayos de laboratorio para la enseñanza de muestreo y cuantificación de señales,” Proyecciones, vol. 24, no. 1, pp. 55–70, 2026, \[Online\]. Available: [https://drive.google.com/file/d/1ksXYCBjvcTTRmQiiydJe53JENm7tsJ4s/view](https://drive.google.com/file/d/1ksXYCBjvcTTRmQiiydJe53JENm7tsJ4s/view)
+
 - G. Peretti, M. R. Doallo, F. Busano, S. Felissia, S. Parucci and J. Bossio, "Design and Implementation of a Satellite Tracking System Using a Helical Antenna," 2025 XXI Workshop on Information Procesing and Control (RPIC), San Francisco, Argentina, 2025, pp. 1-6, [https://doi.org/10.1109/RPIC67987.2025.11260853](https://doi.org/10.1109/RPIC67987.2025.11260853).
 
 - M. R. Doallo, L. N. Bottinelli, L. Duggan and F. Repetto, "Work In Progress: Baseband Arbitrary Function Generator Integrated with GNU Radio," 2024 IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, 2024, pp. 1-7, [https://doi.org/10.1109/ARGENCON62399.2024.10735903](https://doi.org/10.1109/ARGENCON62399.2024.10735903).
